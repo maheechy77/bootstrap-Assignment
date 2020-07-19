@@ -1,0 +1,46 @@
+body {
+	font-family: "Poppins", sans-serif;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+ul {
+	list-style-type: none;
+}
+
+.bg-lightgreen {
+	background-color: #f0fff0;
+}
+.font-large {
+	font-size: 48px;
+	font-weight: 700;
+}
+.height-md {
+	height: 250px;
+}
+
+.active {
+	box-shadow: 5px 5px 10px lightslategray;
+}
+.custom-rounded {
+	border-radius: 0.75rem;
+}
+
+.title {
+	text-align: center;
+	font-weight: 700;
+}
+.card-footer {
+	border-top: none;
+	background-color: white;
+}
+.small-image {
+	width: 100px;
+}
+.small-icon {
+	width: 25px;
+}
+footer {
+	background-color: #282531;
+}
